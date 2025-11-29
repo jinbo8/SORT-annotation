@@ -1,5 +1,6 @@
 SORT
 =====
+基于pytorch实现的多目标追踪算法，base代码来自于官网https://github.com/abewley/sort?tab=readme-ov-file， 在此基础上上添加了详细的中文注释。
 
 A simple online and realtime tracking algorithm for 2D multiple object tracking in video sequences.
 See an example [video here](https://alex.bewley.ai/misc/SORT-MOT17-06-FRCNN.webm).
