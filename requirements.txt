@@ -1,0 +1,4 @@
+filterpy==1.4.5
+scikit-image==0.17.2
+# 如果lap安装失败 不要指定lap的版本号
+lap
